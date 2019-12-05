@@ -15,3 +15,12 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # flutter_dash_boardmenu
+
+# Dashboar Images
+
+![alt tex](https://github.com/MartinhoMCM/flutter_dash_boardmenu/blob/master/dash1.png)
+
+![alt tex](https://github.com/MartinhoMCM/flutter_dash_boardmenu/blob/master/dash2.png)
+
+
+
